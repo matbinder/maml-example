@@ -3,3 +3,4 @@ channels:
 dependencies:
 - maml =0.0.3
 - lammps
+- matminer
