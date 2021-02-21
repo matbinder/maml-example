@@ -1,5 +1,5 @@
 channels:
 - conda-forge
 dependencies:
-- maml
+- maml =0.0.3
 - lammps
